@@ -1,0 +1,8 @@
+{
+    "cSpell.enableFiletypes": [
+        "!java",
+        "xml",
+        "xsl"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
